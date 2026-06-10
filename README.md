@@ -1,5 +1,5 @@
 # Hello!
-I'm Logan, a senior at LHS and soon to be a freshman at Mizzou who greatly enjoys computers and programming, along with playing bass, guitar, skateboarding, music (bit of a metalhead), and cooking.
+I'm Logan, a graduate from LHS and a freshman at Mizzou who greatly enjoys computers and programming, along with playing bass, guitar, skateboarding, music (bit of a metalhead), and cooking.
 
 Go see [my portfolio](https://Logan-010.github.io)!
 
