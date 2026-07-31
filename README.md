@@ -1,5 +1,5 @@
 # Hello!
-I'm Logan, a graduate from LHS and a freshman at Mizzou who greatly enjoys computers and programming, along with playing bass, guitar, skateboarding, music (bit of a metalhead), and cooking.
+I'm Logan, a student developer and coding/computer science addict.
 
 Go see [my portfolio](https://Logan-010.github.io)!
 
